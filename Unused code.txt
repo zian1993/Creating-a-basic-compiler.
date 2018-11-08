@@ -1,0 +1,22 @@
+if ((line.charAt(a)=='(')||(line.charAt(a)==')')||(line.charAt(a)=='[')||(line.charAt(a)==']')||
+					(line.charAt(a)=='{')||(line.charAt(a)=='}')||(line.charAt(a)==',')||
+					(line.charAt(a)==';')||(line.charAt(a)=='=')||(line.charAt(a)=='.')||
+					(line.charAt(a)=='+')||(line.charAt(a)=='-')||(line.charAt(a)=='*')||
+					(line.charAt(a)=='/')||(line.charAt(a)=='&')||(line.charAt(a)=='|')||
+					(line.charAt(a)=='~')||(line.charAt(a)=='<')||(line.charAt(a)=='>'))
+			{
+				breakline(line.substring(a+1, line.length()-1));
+				return Character.toString(line.charAt(a));
+			}
+
+
+
+
+((token.charAt(0)=='a')||(token.charAt(0)=='a')||(token.charAt(0)=='a')||(token.charAt(0)=='a')||
+				(token.charAt(0)=='a')||(token.charAt(0)=='a')||(token.charAt(0)=='a')||(token.charAt(0)=='a')||
+				(token.charAt(0)=='a')||(token.charAt(0)=='a')||(token.charAt(0)=='a')||(token.charAt(0)=='a')||
+				(token.charAt(0)=='a')||(token.charAt(0)=='a')||(token.charAt(0)=='a')||(token.charAt(0)=='a')||
+				(token.charAt(0)=='a')||(token.charAt(0)=='a')||(token.charAt(0)=='a')||(token.charAt(0)=='a')||
+				(token.charAt(0)=='a')||(token.charAt(0)=='a')||(token.charAt(0)=='a')||(token.charAt(0)=='a')||
+				(token.charAt(0)=='a')||(token.charAt(0)=='a')||(token.charAt(0 == Character.is))
+				
